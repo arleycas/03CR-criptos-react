@@ -1,0 +1,3 @@
+- uso de Styled components (dependencia externa)
+- consumo de API externa
+- uso de Hooks propios
